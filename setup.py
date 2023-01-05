@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='Xgression_tk',
-   version='2.6',
+   version='1.1.0',
    description='The Algorithm that find any relationship between data in equation form',
    author='Thaphon Chinnakornsakul',
    author_email='osunchizaza@gmail.com',
