@@ -1,0 +1,4 @@
+build/
+dist/
+Xgression_tk.egg-info/
+xgression_tk/__pycache__
